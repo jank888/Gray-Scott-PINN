@@ -1,0 +1,6 @@
+{
+  "hidden_size": 100,
+  "num_layers": 5,
+  "epochs": 30000,
+  "mode": "standard"
+}

@@ -1,0 +1,6 @@
+{
+  "hidden_size": 50,
+  "num_layers": 4,
+  "epochs": 10000,
+  "mode": "fast"
+}
