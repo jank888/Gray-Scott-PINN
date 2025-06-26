@@ -1,0 +1,18 @@
+{
+  "hidden_size": 20,
+  "num_layers": 4,
+  "activation": "tanh",
+  "Du": 0.01,
+  "Dv": 0.01,
+  "F": 0.09,
+  "K": -0.004,
+  "L": 2.0,
+  "us": 1.0,
+  "vs": 0.0,
+  "epochs": 20000,
+  "lr": 0.001,
+  "N0": 100,
+  "Nb": 200,
+  "Nr": 1024,
+  "description": "Article case study implementation"
+}
